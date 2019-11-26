@@ -1,0 +1,6 @@
+0:0:0:0:0:0:0:1 - - [30/Oct/2019:16:09:54 +0800] "GET /travel/header.html HTTP/1.1" 304 - http-bio-80-exec-1 40
+0:0:0:0:0:0:0:1 - - [30/Oct/2019:16:09:54 +0800] "GET /favicon.ico HTTP/1.1" 404 - http-bio-80-exec-4 0
+0:0:0:0:0:0:0:1 - - [30/Oct/2019:16:09:55 +0800] "GET /travel/user/findOne HTTP/1.1" 200 4 http-bio-80-exec-3 239
+0:0:0:0:0:0:0:1 - - [30/Oct/2019:16:09:55 +0800] "GET /travel/category/findAll HTTP/1.1" 200 247 http-bio-80-exec-2 553
+0:0:0:0:0:0:0:1 - - [30/Oct/2019:16:10:08 +0800] "GET /travel/route/pageQuery?cid=5 HTTP/1.1" 200 - http-bio-80-exec-7 14
+0:0:0:0:0:0:0:1 - - [30/Oct/2019:17:30:26 +0800] "GET /travel/route/pageQuery?cid=5 HTTP/1.1" 200 - http-bio-80-exec-1 79
